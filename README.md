@@ -1,5 +1,5 @@
-# Popular And Usefull Rails Gems
-  *Here I'm listing some popluar and useful 
+# Popular And Useful Rails Gems
+  *Here I'm listing some popular and useful 
   gems which I have used in my projects. later I will add implementation and demo of these 
 gems.*
 
