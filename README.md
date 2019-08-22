@@ -194,7 +194,11 @@ gem 'remotipart'
 gem "rails-assets-arboshiki--lobibox"
 ```
 ### [Demo](https://gem-demo.herokuapp.com/gem_demos/lobibox)
+
 > Responsive jQuery notification plugin written from scratch.
+
+
+
 
 
 
